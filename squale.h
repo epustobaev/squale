@@ -36,6 +36,7 @@ typedef struct _Squale Squale;
 #include "squalelistener.h"
 #include "squaleclient.h"
 #include "squalexml.h"
+#include "config.h"
 
 struct _Squale
 {
